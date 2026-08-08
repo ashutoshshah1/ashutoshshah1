@@ -1,5 +1,5 @@
 # 💫 About Me:
-whoami<br>security researcher of web2 for 7 years and web3 for 3 years <br>Ranked among the top researchers on HackenProof and Cantina<br>Responsible for multiple high- and critical-severity bug bounty disclosures, including a $50K vulnerability <br>Specializes in consensus-layer and networking-level vulnerabilities across major L1 protocols and web2 RCE<br><br>Found multiple RCE on several gov sites and inclusing banking systems https://www.pumb.ua/ <br><br>
+<br>security researcher of web2 for 7 years and web3 for 3 years <br>Ranked among the top researchers on HackenProof and Cantina<br>Responsible for multiple high- and critical-severity bug bounty disclosures, including a $50K vulnerability <br>Specializes in consensus-layer and networking-level vulnerabilities across major L1 protocols and web2 RCE<br><br>Found multiple RCE on several gov sites and inclusing banking systems https://www.pumb.ua/ <br><br>
 
 
 
