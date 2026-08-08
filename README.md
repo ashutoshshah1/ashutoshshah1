@@ -15,4 +15,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashutoshshah1&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-![GitHub Snake](https://githubusercontent.com)
+![snake gif](https://github.com/ashutoshshah1/ashutoshshah1/blob/output/github-snake-dark.svg)
